@@ -5,13 +5,13 @@
 </head>
 <body>
   <h1>Khonsu Tools</h1>
-  <p>We develop mobile applications on Android & iOS.</p>
+  <p>We develop mobile applications on Android</p>
   <h2>Our Apps</h2>
   <ul>
-    <li>App 1</li>
-    <li>App 2</li>
+    <li>AR Drawing Sketch Paint</li>
+    <li>AI Translate All Languages</li>
   </ul>
   <h2>Contact</h2>
-  <p>Email: your@email.com</p>
+  <p>Email: khonsuarwork@gmail.com</p>
 </body>
 </html>
